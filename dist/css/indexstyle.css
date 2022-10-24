@@ -168,6 +168,8 @@ ul {
   border-style: solid;
   font-size: 15px;
   align-items: center;
+  height: 50px;
+  margin-top: 38px;
 }
 
 .footer {
